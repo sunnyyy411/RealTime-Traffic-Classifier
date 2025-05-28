@@ -1,0 +1,11 @@
+Flask==2.3.3
+Flask-SocketIO==5.3.6
+simple-websocket==1.1.0
+scapy==2.5.0
+tensorflow==2.12.1
+numpy==1.24.3
+protobuf==4.25.7
+h5py==3.13.0
+socketio
+eventlet==0.33.0
+pandas==2.0.3  
