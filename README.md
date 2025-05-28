@@ -24,10 +24,10 @@ logs/                   # Generated runtime logs (auto-created)
 static/                 # Frontend assets
   ├── css/              # Stylesheets
   ├── js/               # JavaScript (e.g., application.js)
-  └── images/           # Icons and images
+
 templates/              # Flask HTML templates
   ├── index.html        # Dashboard main view
-  └── detail.html       # Detailed flow view
+  
 
 application.py          # Flask-SocketIO application entry point
 rescnn_reptile_plus_plus_best_model.h5  # Pre-trained Keras model
